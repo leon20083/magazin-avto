@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "image": "https://img.acat.online/acat/main/models/00331.jpg?AWSAccessKeyId=9sY8a5xfU3eNf8SPbg69&Expires=1767941259&Signature=H3PRbs4XQgnOoR9FwsAcup%2BjtyM%3D",
+      "name": "1102",
+      "desc_mod": "110206 \"Таврия Нова\", 110207, 110216, 110218, 110240, 110247, 110260, 110267",
+      "price": 0,
+      "article": "",
+      "available": false
+    },
+    {
+      "image": "https://img.acat.online/acat/main/models/00054.jpg?AWSAccessKeyId=9sY8a5xfU3eNf8SPbg69&Expires=1767941259&Signature=%2Fpk5ZCLQXAqVldggVRHB0LV7O6w%3D",
+      "name": "1102",
+      "desc_mod": "110206, 110216, 11024-11, 1105, 110236, 110246, 110550 \"Пикап\"",
+      "price": 0,
+      "article": "",
+      "available": false
+    },
+    {
+      "image": "https://img.acat.online/acat/main/models/00332.jpg?AWSAccessKeyId=9sY8a5xfU3eNf8SPbg69&Expires=1767941259&Signature=0b6yOQqvkT30adQv8LLqoWhm9HU%3D",
+      "name": "1103",
+      "desc_mod": "1103 \"Славута\", 110307, 110308",
+      "price": 0,
+      "article": "",
+      "available": false
+    },
+    {
+      "image": "https://img.acat.online/acat/main/models/00333.jpg?AWSAccessKeyId=9sY8a5xfU3eNf8SPbg69&Expires=1767941259&Signature=dcsCX1Tl%2BQLBNmf1jir3HQU7YYk%3D",
+      "name": "1105",
+      "desc_mod": "1105 \"Пикап\", 110550, 110557",
+      "price": 0,
+      "article": "",
+      "available": false
+    },
+    {
+      "image": "https://img.acat.online/acat/main/models/59389.jpg?AWSAccessKeyId=9sY8a5xfU3eNf8SPbg69&Expires=1767941259&Signature=JWMgexMwG7jICWyXB%2F8IrM0WuxM%3D",
+      "name": "965",
+      "desc_mod": "965, 965Б",
+      "price": 0,
+      "article": "",
+      "available": false
+    },
+    {
+      "image": "https://img.acat.online/acat/main/models/59840.jpg?AWSAccessKeyId=9sY8a5xfU3eNf8SPbg69&Expires=1767941259&Signature=FLK8caPjzodknllVfSGQUYtPB1g%3D",
+      "name": "966",
+      "desc_mod": "966, 966В",
+      "price": 0,
+      "article": "",
+      "available": false
+    },
+    {
+      "image": "https://img.acat.online/acat/main/models/00055.jpg?AWSAccessKeyId=9sY8a5xfU3eNf8SPbg69&Expires=1767941259&Signature=pZNeMMtHj%2FSl5hW1H%2BE73ep6w%2BA%3D",
+      "name": "968",
+      "desc_mod": "968, 968А, 968М",
+      "price": 0,
+      "article": "",
+      "available": false
+    },
+    {
+      "image": "https://img.acat.online/acat/main/models/15209.jpg?AWSAccessKeyId=9sY8a5xfU3eNf8SPbg69&Expires=1767941259&Signature=%2FDzT50NZ1kD6u%2FRk6pSZAjN9oiU%3D",
+      "name": "Sens",
+      "desc_mod": "",
+      "price": 0,
+      "article": "",
+      "available": false
+    }
+  ]
+}
