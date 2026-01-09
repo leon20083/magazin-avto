@@ -2,7 +2,7 @@
 <template>
   <h2><br />{{ title }}</h2>
   <div class="v-catalog">
-    <router-link :to="{ name: 'cart', query: {cart_data}}">
+    <router-link :to="{ name: 'cart', params:{ cart_data:CART}}">
       <div class="catalog_to_cart">Корзина: {{ CART.length }} </div>
     </router-link>
     <vCatalogItem
@@ -26,6 +26,7 @@ export default {
   data() {
     return {
       title: "Каталог",
+      // cart_data: [],
     };
   },
   computed: {

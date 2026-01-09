@@ -1,11 +1,23 @@
 ﻿<template>
   <div class="v-main-wrapper">
     <router-view></router-view>
+    <!-- <v-catalog /> -->
+    <!-- <v-cart 
+      v-if="CART.length"
+      :cart_data="CART"    
+    /> -->
   </div>
 </template>
 <script>
+import { mapGetters } from 'vuex';
+// import vCart from './v-cart.vue';
+// import VCatalog from './v-catalog.vue';
 export default {
   name: "v-main-wrapper",
+  components: {
+    // VCatalog,
+    // vCart,
+  },
   props: {},
   data() {
     return {
@@ -15,6 +27,11 @@ export default {
     goToCatalogItem() {
       this.$router.push('/catalog-item')
     },
+  },
+  computed: {
+    ...mapGetters([
+      'CART'
+    ])
   },
   watch: {},
 };

@@ -1,6 +1,6 @@
 ﻿<template>
   <div class="v-cart">
-    <router-link :to="{ name: 'catalog'}">
+    <router-link :to="{name: 'catalog'}">
       <div class="catalog_to_cart">Вернуться в каталог</div>
     </router-link>
     <div class="title"><h2>{{ title }}</h2> </div>
